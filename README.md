@@ -23,14 +23,14 @@ Welcome to my Python Development Internship at CodeClause! This repository conta
    ```
    ```
    cd CodeClause-Internship
-   '''
-   '''
+   ```
+   ```
    pip install -r requirements.txt
-   '''
-   '''
+   ```
+   ```
    python main.py
-   '''
-   '''
+   ```
+   ```
 ### Usage
 
 - Launch the application.
