@@ -20,8 +20,8 @@ Welcome to my Python Development Internship at CodeClause! This repository conta
 1. Clone the repository to your local machine:
 
    git clone https://github.com/YourUsername/CodeClause-Internship.git
-   '''
-   '''
+   ```
+   ```
    cd CodeClause-Internship
    '''
    '''
