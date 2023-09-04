@@ -13,15 +13,13 @@ class URLShortenerApp(QMainWindow):
     def init_ui(self):
         self.setWindowTitle("CodeClause_URL Shortener")
         self.setGeometry(100, 100, 700, 300)
-        self.setWindowIcon(QIcon('assets\icon.png'))  # Replace 'icon.png' with the actual path to your icon file
+        self.setWindowIcon(QIcon('icon.png')) 
 
         # Create a central widget
         central_widget = QWidget(self)
         self.setCentralWidget(central_widget)
 
         layout = QVBoxLayout()
-
-        # Increase font size and set it to bold
         font = QFont()
         font.setPointSize(14)
 
