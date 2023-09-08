@@ -22,13 +22,17 @@ Welcome to my Python Development Internship at CodeClause! This repository conta
    git clone https://github.com/YourUsername/CodeClause-Internship.git
    ```
    ```
-   cd CodeClause-Internship
+   ```
+  cd CodeClause-Internship
+   ```
    ```
    ```
    pip install -r requirements.txt
    ```
    ```
+   ```
    python main.py
+   ```
    ```
    ```
 ### Usage
