@@ -18,19 +18,21 @@ Welcome to my Python Development Internship at CodeClause! This repository conta
 ## Installation and Usage
 
 1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/h4ckerharish/CodeClauseInternship_URL_Shortener.git
 
-   git clone https://github.com/YourUsername/CodeClause-Internship.git
-   ```
-   ```
-  cd CodeClause-Internship
-   ```
-   ```
+2. Open directory 
+   ```bash
+   cd CodeClauseInternship_URL_Shortener
+
+3. install requirements
+   ```bash
    pip install -r requirements.txt
-   ```
-   ```
+
+4. Run main.py
+   ```bash
    python main.py
-   ```
-   ```
+   
 ### Usage
 
 - Launch the application.
@@ -59,10 +61,4 @@ G-mail: harishprp370@gmail.com
 '''
 '''
 
-LinkedIn: www.linkedin.com/h4ckerharish36
-'''
-'''
-
-
-
-
+LinkedIn: https://www.linkedin.com/in/h4ckerharish36
